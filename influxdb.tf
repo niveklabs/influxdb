@@ -1,5 +1,5 @@
 provider "influxdb" {
-  version = "1.3.0"
+  version = "1.3.1"
 
   # password - (optional) is a type of string
   password = null

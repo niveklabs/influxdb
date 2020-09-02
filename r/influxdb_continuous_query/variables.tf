@@ -13,3 +13,9 @@ variable "query" {
   type        = string
 }
 
+variable "resample" {
+  description = "(optional)"
+  type        = string
+  default     = null
+}
+

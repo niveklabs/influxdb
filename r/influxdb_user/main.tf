@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    influxdb = ">= 1.3.0"
+    influxdb = ">= 1.3.1"
   }
 }
 

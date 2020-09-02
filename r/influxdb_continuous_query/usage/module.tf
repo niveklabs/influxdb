@@ -7,4 +7,6 @@ module "influxdb_continuous_query" {
   name = null
   # query - (required) is a type of string
   query = null
+  # resample - (optional) is a type of string
+  resample = null
 }
